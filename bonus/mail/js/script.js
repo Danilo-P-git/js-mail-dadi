@@ -12,9 +12,9 @@ for (var i = 0; i < emailDatabase.length; i++) {
     }
 }
 
-if (mailTrovata = true) {
+if (mailTrovata === true) {
   console.log("accesso consentito");
 }
-else if (mailTrovata = false) {
+else if (mailTrovata === false) {
   console.log("accesson negato");
 }
