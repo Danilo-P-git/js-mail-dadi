@@ -1,0 +1,11 @@
+.spazio {
+  height: 50px;
+  background-color: red;
+  border: 1px solid black;
+}
+#numero_pc {
+  font-size: 20px;
+}
+#numero_player {
+  font-size: 20px;
+}
