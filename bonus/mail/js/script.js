@@ -11,10 +11,9 @@ for (var i = 0; i < emailDatabase.length; i++) {
         mailTrovata = true;
     }
 }
-
 if (mailTrovata == true) {
   console.log("accesso consentito");
 }
 else if (mailTrovata == false) {
-  console.log("accesson negato");
+  console.log("accesso negato");
 }
